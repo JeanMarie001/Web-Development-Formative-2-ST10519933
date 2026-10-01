@@ -95,6 +95,36 @@ The enquiry page is oragnised in a way that is easy for the user to understand a
 
 The contact page is set up in a way that provides you with all the information needed to get in contact with oblivian about whatever it is that you need and I even added a border with space to include your name, email, the subject and the message you want to send. This provides a more personal experience for the user as you are now directly requesting for something that you need done for yourself secifically.
 
+I used a couple websites to assist me with the css. W3 SCHOOLS AND MDN
+
+## References
+
+MDN Web Docs (n.d.) Background-color. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/background-color (Accessed: 1 October 2026).
+
+MDN Web Docs (n.d.) Color. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/color (Accessed: 1 October 2026).
+
+MDN Web Docs (n.d.) Height. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/height (Accessed: 1 October 2026).
+
+MDN Web Docs (n.d.) Left. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/left (Accessed: 1 October 2026
+
+MDN Web Docs (n.d.) Right. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/right (Accessed: 1 October 2026).
+
+MDN Web Docs (n.d.) Top. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/top (Accessed: 1 October 2026).
+
+MDN Web Docs (n.d.) Width. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/width (Accessed: 1 October 2026).
+
+W3Schools (n.d.) CSS border. Available at: https://www.w3schools.com/css/css_border.asp (Accessed: 1 October 2026).
+
+W3Schools (n.d.) CSS font. Available at: https://www.w3schools.com/css/css_font.asp (Accessed: 1 October 2026).
+
+W3Schools (n.d.) CSS horizontal navigation bar. Available at: https://www.w3schools.com/css/css_navbar_horizontal.asp (Accessed: 1 October 2026).
+
+W3Schools (n.d.) CSS positioning. Available at: https://www.w3schools.com/css/css_positioning.asp (Accessed: 1 October 2026).
+
+W3Schools (n.d.) CSS rounded corners. Available at: https://www.w3schools.com/css/css3_borders.asp (Accessed: 1 October 2026).
+
+W3Schools (n.d.) CSS text. Available at: https://www.w3schools.com/css/css_text.asp (Accessed: 1 October 2026).
+
 # SiteMap
  <img src="images/SITEMAP.png">
 
